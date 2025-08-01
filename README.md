@@ -29,11 +29,11 @@ Phase 4 of the cybersecurity internship focused on securing network and cloud en
   * Allow LAN → DMZ
   * Block DMZ → LAN
   * WAN → DMZ (Only HTTP/HTTPS allowed)
-* NAT rules configured for port forwarding to OpenCart
+* Bridged Adaptor rules configured for port forwarding to OpenCart
 
 **Evidence:**
 
-* Screenshots of firewall rules, interface setup
+* Screenshots of users & roles, interface setup
 
 ---
 
